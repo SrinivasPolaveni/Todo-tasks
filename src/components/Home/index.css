@@ -1,0 +1,36 @@
+/* Write your CSS code here */
+.form-main-container {
+  background-color: #3c4852;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+.form-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.username {
+  margin: 10px;
+  padding: 10px;
+  border-radius: 6px;
+}
+.button {
+  background-color: #0885ec;
+  padding: 10px;
+  border-radius: 7px;
+  width: 100px;
+  border: 0px;
+  color: #ffffff;
+  text-align: center;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.label {
+  color: #ffffff;
+  margin-left: 10px;
+}
